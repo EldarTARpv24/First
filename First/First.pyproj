@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3b62dad4-17ce-49e0-ae15-0b54ce7449f8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>module228.py</StartupFile>
+    <StartupFile>First.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="First.py" />
+    <Compile Include="First.txt" />
     <Compile Include="module228.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

@@ -99,8 +99,8 @@ print("Tere-tere")
 
 #UL 9
 
-first = int(input("Сторона: "))
-second = int(input("Сторона: "))
-third = int(input("Сторона: "))
-P = (first + second + third)
-print(P)
+# first = int(input("Сторона: "))
+# second = int(input("Сторона: "))
+# third = int(input("Сторона: "))
+# P = (first + second + third)
+# print(P)
