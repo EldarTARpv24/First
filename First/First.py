@@ -1,8 +1,8 @@
-from array import typecodes
-from colorsys import TWO_THIRD
+# from array import typecodes
+# from colorsys import TWO_THIRD
 
 
-print("Tere-tere")
+# print("Tere-tere")
 
 #типы данных - int(целочисленные), float(с плавающей точкой), str(слово), bool \
 
@@ -99,8 +99,6 @@ print("Tere-tere")
 
 #UL 9
 
-first = int(input("Сторона: "))
-second = int(input("Сторона: "))
-third = int(input("Сторона: "))
+
 P = (first + second + third)
 print(P)
