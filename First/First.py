@@ -97,8 +97,8 @@
 # print("  ( \__/ )")
 # print("  ^^ ˇˇ´^^  ")
 
-#UL 9
-
+#UL
+óöloäoüp
 
 P = (first + second + third)
 print(P)
